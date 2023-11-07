@@ -5,7 +5,7 @@ Created on Tue Nov  7 09:44:18 2023
 @author: aspdi
 """
 
-from flask import Flask
+from flask import Flasky
 
 app=Flask(__name__)
 
